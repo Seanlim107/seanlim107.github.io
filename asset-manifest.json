@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/seanlim107.github.io/static/css/main.a7b6968b.css",
-    "main.js": "/seanlim107.github.io/static/js/main.bf114892.js",
-    "static/media/PALMS_UI.png": "/seanlim107.github.io/static/media/PALMS_UI.3ebac62e21d385201cce.png",
-    "static/media/valid5.png": "/seanlim107.github.io/static/media/valid5.57e45d838fd00df47294.png",
-    "static/media/Chatbot_Results.png": "/seanlim107.github.io/static/media/Chatbot_Results.fc01ee7730274047fe70.png",
-    "index.html": "/seanlim107.github.io/index.html",
-    "main.a7b6968b.css.map": "/seanlim107.github.io/static/css/main.a7b6968b.css.map",
-    "main.bf114892.js.map": "/seanlim107.github.io/static/js/main.bf114892.js.map"
+    "main.css": "/static/css/main.a7b6968b.css",
+    "main.js": "/static/js/main.23ca5987.js",
+    "static/media/PALMS_UI.png": "/static/media/PALMS_UI.3ebac62e21d385201cce.png",
+    "static/media/valid5.png": "/static/media/valid5.57e45d838fd00df47294.png",
+    "static/media/Chatbot_Results.png": "/static/media/Chatbot_Results.fc01ee7730274047fe70.png",
+    "index.html": "/index.html",
+    "main.a7b6968b.css.map": "/static/css/main.a7b6968b.css.map",
+    "main.23ca5987.js.map": "/static/js/main.23ca5987.js.map"
   },
   "entrypoints": [
     "static/css/main.a7b6968b.css",
-    "static/js/main.bf114892.js"
+    "static/js/main.23ca5987.js"
   ]
 }
