@@ -2,6 +2,7 @@ import React from 'react';
 import '../mystyle.css';
 import profilePicture from '../assets/pfp.jpeg'; // Import your profile picture
 import resume from '../assets/Resume_SeanLim.pdf'; // Import your resume
+import { FaGithub, FaLinkedin, FaFilePdf } from 'react-icons/fa';
 
 const About = () => {
     return (
@@ -26,17 +27,17 @@ const About = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    LinkedIn
+                    <FaLinkedin size={24} />
                 </a>
                 <a
                     href="https://github.com/Seanlim107"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    GitHub
+                    <FaGithub size={24} />
                 </a>
                 <a href={resume} download="Resume_SeanLim.pdf">
-                    Resume
+                    <FaFilePdf size={24} />
                 </a>
             </div>
         </div>
