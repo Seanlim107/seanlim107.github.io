@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.90c8b8f4.css",
+    "main.js": "/Portfolio-Website/static/js/main.b437e6a0.js",
+    "static/js/488.197e7860.chunk.js": "/Portfolio-Website/static/js/488.197e7860.chunk.js",
+    "static/media/Resume_SeanLim.pdf": "/Portfolio-Website/static/media/Resume_SeanLim.0a8f12920b50cfe53b94.pdf",
+    "static/media/PALMS_UI.png": "/Portfolio-Website/static/media/PALMS_UI.3ebac62e21d385201cce.png",
+    "static/media/valid5.png": "/Portfolio-Website/static/media/valid5.57e45d838fd00df47294.png",
+    "static/media/Chatbot_Results.png": "/Portfolio-Website/static/media/Chatbot_Results.fc01ee7730274047fe70.png",
+    "static/media/pfp.jpeg": "/Portfolio-Website/static/media/pfp.0707cda710a4c02b090c.jpeg",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.90c8b8f4.css.map": "/Portfolio-Website/static/css/main.90c8b8f4.css.map",
+    "main.b437e6a0.js.map": "/Portfolio-Website/static/js/main.b437e6a0.js.map",
+    "488.197e7860.chunk.js.map": "/Portfolio-Website/static/js/488.197e7860.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90c8b8f4.css",
+    "static/js/main.b437e6a0.js"
+  ]
+}
