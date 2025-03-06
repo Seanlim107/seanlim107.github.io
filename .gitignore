@@ -10,6 +10,8 @@ __pycache__/
 .Python
 /build/
 /node_modules/
+node_modules/
+build/
 develop-eggs/
 dist/
 downloads/
